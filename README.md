@@ -8,8 +8,8 @@
 
 In this lab, we will be rendering a few children components in our top-most
 component: `App`. The components are set up, but we need to update the JSX they
-return. We'll be writing all our code in the `NavBar.js`, `Home.js`, and
-`About.js` files. These files are all located in the `src/components` directory.
+return. We'll be writing all our code in the `NavBar.tsx`, `Home.tsx`, and
+`About.tsx` files. These files are all located in the `src/components` directory.
 
 Begin with `npm install`. Examine what is rendering in the browser with
 `npm start`.
@@ -18,7 +18,7 @@ Our goal will be to make our page look like this:
 
 ![demo app](https://curriculum-content.s3.amazonaws.com/phase-2/phase-2-hooks-jsx-lab/demo.png)
 
-Once your app matches the demo image, run `learn test` or `npm test` to check
+Once your app matches the demo image, run `npm test` to check
 your work.
 
 ## Deliverables

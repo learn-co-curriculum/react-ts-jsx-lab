@@ -36,8 +36,8 @@ The `<NavBar>` component should return the following JSX elements:
 
 ### Home
 
-Inside the `<Home>` component, there are a couple of variables defined that will
-allow you to insert your name and city into the portfolio page.
+Inside the `<Home>` component, there are a couple of variables being imported 
+that will allow you to insert your name and city into the portfolio page.
 
 The `<Home>` component should return the following JSX elements:
 
@@ -48,7 +48,7 @@ The `<Home>` component should return the following JSX elements:
   - use JSX expression syntax to use the imported `name` and `city` variables
     inside your JSX elements
 
-**Hint**: consult the [React documentation the `style` property][style] to see
+**Hint**: consult the [React documentation for the `style` property][style] to see
 how to set the color correctly.
 
 ### About
